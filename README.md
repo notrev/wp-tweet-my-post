@@ -73,18 +73,18 @@ To be added.
 
 ## Changelog ##
 
-### 1.0 ###
-* First working version
+#### 1.0 ####
+- First working version
 
 ## Upgrade Notice ##
 
-### 1.0 ###
-First working version.
+#### 1.0 ####
+- First working version.
 
-### 0.1 ###
-First draft. Not working yet
+#### 0.1 ####
+- First draft. Not working yet
 
 ## To Do ##
 
-* Clean up repository, removing unnecessary files added by the [WordPress Plugin Boilerplate](http://wppb.io/).
-* Generate .POT file for translations.
+- Clean up repository, removing unnecessary files added by the [WordPress Plugin Boilerplate](http://wppb.io/).
+- Generate .POT file for translations.

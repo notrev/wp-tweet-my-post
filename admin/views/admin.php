@@ -1,22 +1,11 @@
-<?php
-/**
- * Represents the view for the administration dashboard.
- *
- * This includes the header, options, and other information that should provide
- * The User Interface to the end user.
- *
- * @package   Tweet_my_Post
- * @author    Éverton Arruda <root@earruda.eti.br>
- * @license   GPL-2.0+
- * @link      http://earruda.eti.br
- * @copyright 2014 Éverton Arruda
- */
-?>
-
 <div class="wrap">
+	<h1><?php echo esc_html( get_admin_page_title() ); ?></h1>
 
-	<h2><?php echo esc_html( get_admin_page_title() ); ?></h2>
-
-	<!-- @TODO: Provide markup for your options page here. -->
-
+	<form method="post" action="options.php">
+		<?php
+			settings_fields( $this->plugin_settings_slug );
+			do_settings_sections( $this->plugin_slug );
+			submit_button();
+		?>
+	</form>
 </div>

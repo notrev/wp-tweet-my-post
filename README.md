@@ -1,12 +1,13 @@
 # Tweet my Post #
-Contributors:
-Donate link: No donations needed, but thanks.
-Tags: post, twitter, publish
-Requires at least: 3.5.1
-Tested up to: 4.4
-Stable tag: master
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+- Contributors:
+- Donate link: No donations needed, but thanks.
+- Tags: post, twitter, publish
+- Requires at least: 3.5.1
+- Tested up to: 4.4
+- Stable tag: master
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A plugin that publishes your post to a Twitter account.
 

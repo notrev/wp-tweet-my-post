@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "require": {
+        "j7mbo/twitter-api-php": "dev-master"
+    }
+}

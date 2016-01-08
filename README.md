@@ -15,12 +15,12 @@ A plugin that publishes your post to a Twitter account.
 
 This plugin publishes posts to a Twitter account.
 
-There is a meta-box in post pages with a checkbox that defines if a post
+There is a meta-box in the post page with a checkbox that allows you to select if a post
 should be published to Twitter.
 
 In order for posts to be tweeted, some informations are necessary. You need
 to setup a Twitter App and set keys in the plugin setup page. More informations
-can be found there.
+can be found in the *installation* section of this README file.
 
 ## Installation ##
 
@@ -70,19 +70,6 @@ Check this website: http://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-e
 ## Screenshots ##
 
 To be added.
-
-## Changelog ##
-
-#### 1.0 ####
-- First working version
-
-## Upgrade Notice ##
-
-#### 1.0 ####
-- First working version.
-
-#### 0.1 ####
-- First draft. Not working yet
 
 ## To Do ##
 

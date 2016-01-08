@@ -63,7 +63,7 @@ tweeted to the specified Twitter account containing you post title and the perma
 
 ## Frequently Asked Questions ##
 
-### How can I get API Key, API Key Secret, Access Token and Access Token Secret? ###
+#### How can I get API Key, API Key Secret, Access Token and Access Token Secret? ####
 
 Check this website: http://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/
 

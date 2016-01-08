@@ -1,7 +1,7 @@
 # Tweet my Post #
 
-- Contributors:
-- Donate link: No donations needed, but thanks.
+- Contributors: Tweet my Post contributors
+- Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XS2WYZD25FNXU&lc=US&item_name=%c3%89verton%20Arruda&item_number=foss%2dproject&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 - Tags: post, twitter, publish
 - Requires at least: 3.5.1
 - Tested up to: 4.4
@@ -70,8 +70,3 @@ Check this website: http://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-e
 ## Screenshots ##
 
 To be added.
-
-## To Do ##
-
-- Clean up repository, removing unnecessary files added by the [WordPress Plugin Boilerplate](http://wppb.io/).
-- Generate .POT file for translations.
